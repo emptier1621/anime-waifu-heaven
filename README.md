@@ -4,7 +4,7 @@
 ## Empezar.
 - Clonar repositorio.
   ```
-    git clone https://github.com/emptier1621/AnimeWaifuHeaven.git
+    git clone https://github.com/emptier1621/anime-facts
   ```
 - Instalar dependencias. Dentro de la carpeta clonada del proyecto. 
   ```

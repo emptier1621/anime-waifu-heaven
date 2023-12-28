@@ -64,6 +64,14 @@ p{
   justify-content: center;
   margin-left: 1rem;
   margin-right: 1rem;
+  box-sizing: border-box;
+}
+
+.container .images img:hover{
+  opacity: 0.8;
+  scale: 1.01;
+  background-color: #213547;
+  box-sizing: border-box;
 }
 
 .container .images img{
