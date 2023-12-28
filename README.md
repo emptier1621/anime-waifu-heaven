@@ -1,5 +1,5 @@
 # Anime Waifu Heaven
-¡Bienvenido a Anime Waifu Heaven, tu fuente instantánea de alegría anime! Este proyecto, desarrollado con React, te permite explorar y descubrir encantadoras imágenes y GIFs de anime de manera aleatoria, alimentadas por la poderosa API de waifu.it.
+¡Bienvenido a Anime Waifu Heaven, tu fuente instantánea de alegría anime! Este proyecto, desarrollado con React, te permite explorar y descubrir encantadoras imágenes y GIFs de anime de manera aleatoria, alimentadas por la poderosa API de [waifu.it](https://docs.waifu.it/).
 
 ## Empezar.
 - Clonar repositorio.
