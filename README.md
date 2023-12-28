@@ -4,7 +4,7 @@
 ## Empezar.
 - Clonar repositorio.
   ```
-    git clone https://github.com/emptier1621/anime-facts
+    git clone https://github.com/emptier1621/anime-waifu-heaven
   ```
 - Instalar dependencias. Dentro de la carpeta clonada del proyecto. 
   ```
@@ -20,5 +20,9 @@
   ``` 
 
 
-> Nota: Genere su API KEY en la web oficial de la API y editar las variables de entorno. (.env)
+> Nota: Genere su API KEY en la web oficial de la API y agréguelo a las variables de entorno. (archivo .env)
 
+
+<p align="center">
+  <img  src="/imgs/Captura de pantalla 2023-12-28 003744.png"/>
+</p>
